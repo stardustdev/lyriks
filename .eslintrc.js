@@ -55,5 +55,6 @@ module.exports = {
     indent: 0,
     'implicit-arrow-linebreak': 0,
     'comma-dangle': 0,
+    'no-confusing-arrow': 0,
   },
 };
