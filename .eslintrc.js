@@ -56,5 +56,6 @@ module.exports = {
     'implicit-arrow-linebreak': 0,
     'comma-dangle': 0,
     'no-confusing-arrow': 0,
+    'import/no-unresolved': 0,
   },
 };
