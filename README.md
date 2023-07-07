@@ -2,7 +2,7 @@
 
 Develop an elegant React.js Music Application. 
 
-You can visit the app [here](https://lyriks-mimic.netlify.app/top-charts)
+You can visit the app [here](https://lyriks-mimic.netlify.app)
 
 # Contributing
 
